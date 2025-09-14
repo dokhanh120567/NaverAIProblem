@@ -6,8 +6,7 @@
 
 ## 🚀 Project Setup & Usage
 **How to install and run your project:**  
-- Clone the repository: `git clone [repository-url]`
-- Navigate to the project directory: `cd web-track-naver-vietnam-ai-hackathon-dokhanh120567-main`
+- Clone the repository: `git clone https://github.com/dokhanh120567/NaverAIProblem.git`- Navigate to the project directory: `cd web-track-naver-vietnam-ai-hackathon-dokhanh120567-main`
 - Install dependencies: `npm install`
 - Start the development server: `npm run dev`
 - Open your browser and navigate to `http://localhost:5173`
@@ -32,7 +31,9 @@ To build and preview the production version locally:
 **Note:** The `dist/` folder is included in this repository for assignment review purposes.
 
 ## 🔗 Deployed Web URL or APK file
-**Live Demo:** [Deploy to Vercel/Netlify and add link here]
+**Live Demo:**
+- Vercel Project: https://vercel.com/khanh-dos-projects-559e7756/naver-ai-problem
+- Live Site: https://naver-ai-problem.vercel.app/
 
 
 ## 🎥 Demo Video
@@ -42,7 +43,7 @@ To build and preview the production version locally:
 - The video will not appear in search results or on your channel.  
 - Share the link in your README so mentors can access it.  
 
-**Demo Video:** [Create and upload demo video, then add YouTube link here]
+**Demo Video:** https://youtu.be/uxo1NRlNbaQ
 
 
 ## 💻 Project Introduction
