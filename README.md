@@ -12,6 +12,25 @@
 - Start the development server: `npm run dev`
 - Open your browser and navigate to `http://localhost:5173`
 
+## 🏠 Local Production Build Preview
+To build and preview the production version locally:
+
+1. Build the app:
+  ```sh
+  npm run build
+  ```
+2. Install the static server if you don't have it:
+  ```sh
+  npm install -g serve
+  ```
+3. Preview the production build:
+  ```sh
+  serve -s dist
+  ```
+4. Open your browser and go to the URL shown in the terminal (usually http://localhost:3000)
+
+**Note:** The `dist/` folder is included in this repository for assignment review purposes.
+
 ## 🔗 Deployed Web URL or APK file
 **Live Demo:** [Deploy to Vercel/Netlify and add link here]
 
